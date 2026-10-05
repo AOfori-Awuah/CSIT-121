@@ -1,0 +1,28 @@
+#Main-Heading {
+    color: maroon;
+    font-size: 32px;
+}
+
+body {
+    background-color: pink;
+    color: brown;
+
+}
+
+.Heading-Two {
+    color: maroon;
+    font-size: 24px;
+
+}
+
+.Heading-Three {
+    color: mediumvioletred;
+}
+
+.Link {
+    color: palevioletred;
+}
+
+.Paragraph {
+    font-size: 16px;
+}
