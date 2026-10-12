@@ -1,0 +1,38 @@
+body {
+    background-image: url("images/background.jpg");
+}
+
+
+nav {
+    text-align: center;
+}
+
+
+ul  { 
+    list-style-type:none;
+
+}
+h1 {
+    text-align: center;
+    color: brown;
+}
+
+h2 {
+    text-align: center;
+    color: brown;
+}
+
+p {
+  text-align: center;
+  color: maroon;
+}
+
+h3 {
+    color: darkred;
+}
+
+footer {
+    font: 12px;
+    color: red;
+
+}
